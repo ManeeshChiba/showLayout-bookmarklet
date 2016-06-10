@@ -10,6 +10,8 @@ Drags the ShowLayout link into your bookmarks, click on it when on any page to u
 	</h1>
 </div>
 
+[Boomark page here](http://maneeshchiba.github.io/showLayout/)
+
 Or just inject this code into pages you working on:
 ```javascript
 javascript: (function() {
